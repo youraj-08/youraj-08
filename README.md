@@ -1,7 +1,7 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
 # 💫 About Me:
-Second year CSE student learning Full-Stack Web Dev. <br>Feel free to check out my GitHub profile, get in touch if you're interested in collaborating on a project.
+Third year CSE student learning Full-Stack Web Dev. <br>Feel free to check out my GitHub profile, get in touch if you're interested in collaborating on a project.
 
 
 ## 🌐 Socials:
